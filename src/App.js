@@ -286,9 +286,9 @@ function App() {
   return (
     <div className="App">
       <div className="box">
-        <h1>Moyennes École Directe <a className="version">v2.1</a></h1>
+        <h1>Moyennes École Directe <a className="version" href="title">v2.1</a></h1>
         <p>Entrez votre identifiant et mot de passe ED</p>
-        <a>{loginSuccessful ? "" : "Identifiant ou mot de passe incorrect"}</a>
+        <a href="status">{loginSuccessful ? "" : "Identifiant ou mot de passe incorrect"}</a>
         <input onChange={handleUsernameChange} type="text" placeholder="Identifiant"></input>
         <input onChange={handlePasswordChange} type="password" placeholder="Mot de passe"></input>
         {(() => {
