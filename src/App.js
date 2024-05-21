@@ -1,6 +1,6 @@
 import React, { useState } from "react";
+import axios from "axios";
 import './App.css';
-
 
 function App() {
   // Basic variables for connecting
@@ -8,9 +8,6 @@ function App() {
   const [password, setPassword] = useState("");
 
   const [visibleCount, setVisibleCount] = useState(1);
-
-  // Module to connect to the API's
-  const axios = require('axios');
 
   // Define all the variables for the graphics effects and validating
   const [isValidated, setIsValidated] = useState(false);
