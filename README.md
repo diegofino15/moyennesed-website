@@ -1,5 +1,4 @@
-# moyennesed.my.to
+# moyennesed.dfino.dev
 
-This is the repository for the website : https://moyennesed.my.to/
+This is the repository for the website : https://moyennesed.dfino.dev/
 
-This site calculates your average, which is not displayed for some schools on their official site
