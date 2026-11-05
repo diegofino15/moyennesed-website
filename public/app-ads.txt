@@ -1,3 +1,4 @@
+google.com, pub-1874413526628374, DIRECT, f08c47fec0942fa0
 acd.op.hicloud.com, PUB_HW_1003, RESELLER
 aceex.io, 1697, RESELLER
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
@@ -185,7 +186,6 @@ gitberry.com, 3OJ, RESELLER
 gitberry.com, 42knb, RESELLER
 goldbach-germany.de, Connekt, RESELLER
 google.com, pub-1869877675520642, DIRECT, f08c47fec0942fa0
-google.com, pub-1874413526628374, DIRECT, f08c47fec0942fa0
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
